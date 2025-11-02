@@ -1,1 +1,1 @@
-# HI its 1st reposetroy 
+# HI its 1st repo
